@@ -4,5 +4,5 @@ def multiply_by_2(a_dictionary):
     if a_dictionary is not None:
         new_dict = a_dictionay
         for n, m in new_dict.itema():
-            new_dict[k] = v * 2
+            new_dict[n] = m * 2
         return new_dict
