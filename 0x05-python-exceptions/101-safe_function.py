@@ -12,4 +12,4 @@ def safe_function(fct, *args):
         result = None
         sys.stderr.write("Exception: list index out of range\n")
 
-    return 
+    return result 
