@@ -5,6 +5,7 @@ A module with a rectangle that does nothing
 
 """
 
+
 class Rectangle:
     """
 
