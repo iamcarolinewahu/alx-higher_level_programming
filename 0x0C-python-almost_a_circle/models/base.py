@@ -3,9 +3,9 @@
 A class to serve a base for other classes
 """
 
+
 class Base:
     """Represents base of all classes created"""
-
 
     __nb_objects = 0
 
